@@ -28,7 +28,7 @@
 
 function Sendmessage(){
 const myHeaders = new Headers();
-myHeaders.append("Authorization", "*******");
+myHeaders.append("Authorization", "****");
 myHeaders.append("Content-Type", "application/json");
 myHeaders.append("Cookie", "__cf_bm=W.PjJkGzMotcjDRzDwifZyCJwXoc6XkMpbu3rdvO30o-1795073695.2935297-1.0.1.1-gA2TrloqQwpOuLVr6PwWnyk1sGMqORVnXp6I4uzVm257oeG1I6Yd4p7YGJz4KxjbxYy0ofKAnQklppqVw1CJklhxnF3CI5F31FgCewzRe7s_b19tGP4uhnGoW1ABm58G");
 
